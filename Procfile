@@ -1,0 +1,1 @@
+web: gunicorn server-test:app --log-file -
